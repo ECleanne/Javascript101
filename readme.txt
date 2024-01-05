@@ -29,7 +29,7 @@
 
 ### MATH OPERATORS ###
 
-- Create a variable called `sum` and assign it the value of `age` plus `current year`
+- Create a variable called `sum` and assign it the- value of `age` plus `current year`
 
 - Create a variable called `product` and assign it the value of `age` times `current year`
 
