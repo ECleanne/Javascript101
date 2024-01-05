@@ -65,3 +65,4 @@ function not(arg) {
 }
 let resultNot = not(false);
 console.log(resultNot); 
+ 
